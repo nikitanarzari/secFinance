@@ -1,0 +1,69 @@
+body{
+  background-color:white;
+  margin:0px;
+}
+
+
+
+
+.bill-box{
+  background-color:  #eef2f6;
+  max-width:600 px;
+     margin :40 px auto;
+     padding:50px;
+      
+     border-radius:10px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+input{
+   padding:8px;
+   margin:6px;
+   border:1px solid blue;
+   border-radius:4px;
+}
+button{
+  padding:10px 14px;
+  background-color:blue;
+  color:white;
+  border:none;
+  border-radius:100px;
+  cursor:pointer;
+
+}
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin-top:60px;
+}
+th, td {
+   padding: 10px;
+   text-align:middle;
+   color:black;
+   border-bottom:2px solid white;
+}
+th{
+  background-color:grey;
+}
+td button {
+  background-color: red;
+  padding: 5px 10px;
+}
+
+h2{
+  
+  text-align:middle;
+  margin:20px;
+  margin-top:20px;
+  color:blue;
+
+}
+
+h4 {
+  text-align: right;
+  margin:40px;
+  margin-top: 40px;
+  color: black;
+}
+
+
